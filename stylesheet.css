@@ -1,0 +1,14 @@
+body {
+    background-color: #3B4756;
+    margin-left: 50px;
+  }
+  
+  h1, h2, h3, h4, h5, p, a {
+    color: white;
+    margin-left: 20px;
+    font-family: sans-serif;
+  }
+  
+  img {
+      margin-left: 20px;
+  }
